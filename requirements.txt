@@ -1,2 +1,2 @@
-Flask
-bakong_khqr
+flask
+requests
